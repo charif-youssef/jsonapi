@@ -1,8 +1,8 @@
-AdmobIpBegin#testAdmobIp#AdmobIdLast
-AdmobBannerBegin#testAdmobBanner#AdmobBannerLast
-AdmobInterBegin#testAdmobInter#AdmobInterLast
-AdmobRewordBegin#testAdmobReword#AdmobRewordLast
-UnityIdBegin#testUnityId#UnityIdlast
-UnityBannerBegin#testUnityBanner#UnityBannerLast
-UnityInterBegin#testUnityInter#UnityInterLast
-UnityRewordBegin#testUnityReword#UnityRewordLast
+AdmobIpBegin#ca-app-pub-3940256099942544/3419835294#AdmobIdLast
+AdmobBannerBegin#ca-app-pub-3940256099942544/6300978111#AdmobBannerLast
+AdmobInterBegin#ca-app-pub-3940256099942544/1033173712#AdmobInterLast
+AdmobRewordBegin#ca-app-pub-3940256099942544/5224354917#AdmobRewordLast
+UnityIdBegin#441063#UnityIdlast
+UnityBannerBegin#Banner_Android#UnityBannerLast
+UnityInterBegin#Interstitial_Android#UnityInterLast
+UnityRewordBegin#Rewarded_Android#UnityRewordLast
