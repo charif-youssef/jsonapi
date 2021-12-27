@@ -1,4 +1,0 @@
-SdkKeyBegin##ddosODOz_WPiOgvesSDLl0VRXK7A_uff8Gf1vlzgpTo18c1oNnfF1hByqkkBNniFdQst-1OAS-bBC6JTwWcJP0##LastSdkKey
-UserIdBegin##UsserTst##LastUserId
-bannerAdUnitIdBegin##YOUR_BANNER_AD_UNIT_ID##LastbannerAdUnitId
-adUnitIdBegin##YOUR_AD_UNIT_ID##LastadUnitId
