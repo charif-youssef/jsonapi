@@ -1,0 +1,4 @@
+SdkKeyBegin##   ##LastSdkKey
+UserIdBegin##  ##LastUserId
+bannerAdUnitIdBegin## ##LastbannerAdUnitId
+adUnitIdBegin##  ##LastadUnitId
