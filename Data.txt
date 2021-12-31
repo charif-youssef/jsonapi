@@ -1,8 +1,11 @@
 //AppKey IronSource
 AppKeyBegin##{12aacd445}##LastAppKey
 
-//if The app closed
-IsSusspendBegin##{false}##LastIsSusspend //false :if the app in Store //true
-UrlIconBegin##{https://lostertime.com/IpTv/DATA/icone/theLastoneIcon.png}##LastUrlIcon
-PackageNameBegin##{com.androworld.lastfiddlerphotoeditor}##LastPackageName
-TitleBegin##{Photo Lab Editor Pro}##LastadTitle
+//Susppennd game
+IsSusspendBegin##{false}##LastIsSusspend                             //false :if the app in Store 
+
+UrlIconBegin##{https://lostertime.com/IpTv/DATA/icone/theLastoneIcon.png}##LastUrlIcon   //icon of the game
+
+PackageNameBegin##{com.androworld.lastfiddlerphotoeditor}##LastPackageName     //package of the new game 
+
+TitleBegin##{Photo Lab Editor Pro}##LastadTitle                            //title of the game
