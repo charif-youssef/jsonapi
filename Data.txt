@@ -2,7 +2,7 @@
 AppKeyBegin##{12aacd445}##LastAppKey
 
 //Susppennd game
-IsSusspendBegin##{false}##LastIsSusspend                             //false :if the app in Store 
+IsSusspendBegin##{true}##LastIsSusspend                             //false :if the app in Store 
 
 UrlIconBegin##{https://lostertime.com/IpTv/DATA/icone/theLastoneIcon.png}##LastUrlIcon   //icon of the game
 
