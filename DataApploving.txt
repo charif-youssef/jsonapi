@@ -1,0 +1,18 @@
+//Apploving
+SdkKeyBegin##ddosODOz_WPiOgvesSDLl0VRXK7A_uff8Gf1vlzgpTo18c1oNnfF1hByqkkBNniFdQst-1OAS-bBC6JTwWcJP0##LastSdkKey
+UserIdBegin##UserId##LastUserId
+bannerAdUnitIdBegin##e43d61691b465d04##LastbannerAdUnitId
+adUnitIdBegin##449ffee8b897ba49##LastadUnitId
+
+
+//Susppennd game
+IsSusspendBegin##{false}##LastIsSusspend                             //false :if the app in Store 
+
+UrlIconBegin##{https://lostertime.com/IpTv/DATA/icone/theLastoneIcon.png}##LastUrlIcon   //icon of the game
+
+PackageNameBegin##{com.androworld.lastfiddlerphotoeditor}##LastPackageName     //package of the new game 
+
+TitleBegin##{Photo Lab Editor Pro}##LastadTitle                            //title of the game
+
+//more game
+moregameBegin##{https://play.google.com/store/apps/developer?id=reddit+Inc.&gl=MA}##Lastmoregame
