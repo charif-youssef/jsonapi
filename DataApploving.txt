@@ -6,7 +6,7 @@ adUnitIdBegin##449ffee8b897ba49##LastadUnitId
 
 
 //Susppennd game
-IsSusspendBegin##{false}##LastIsSusspend                             //false :if the app in Store 
+IsSusspendBegin##{true}##LastIsSusspend                             //false :if the app in Store 
 
 UrlIconBegin##{https://lostertime.com/IpTv/DATA/icone/theLastoneIcon.png}##LastUrlIcon   //icon of the game
 
