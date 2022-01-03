@@ -12,9 +12,9 @@ IsSusspendBegin##{false}##LastIsSusspend                             //false :if
 
 UrlIconBegin##{https://lostertime.com/IpTv/DATA/icone/theLastoneIcon.png}##LastUrlIcon   //icon of the game
 
-PackageNameBegin##{com.androworld.lastfiddlerphotoeditor}##LastPackageName     //package of the new game 
+PackageNameBegin##{}##LastPackageName     //package of the new game 
 
 TitleBegin##{Photo Lab Editor Pro}##LastadTitle                            //title of the game
 
 //more game
-moregameBegin##{https://play.google.com/store/apps/developer?id=reddit+Inc.&gl=MA}##Lastmoregame
+moregameBegin##{}##Lastmoregame
