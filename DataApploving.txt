@@ -1,8 +1,8 @@
 //Apploving
 SdkKeyBegin##ddosODOz_WPiOgvesSDLl0VRXK7A_uff8Gf1vlzgpTo18c1oNnfF1hByqkkBNniFdQst-1OAS-bBC6JTwWcJP0##LastSdkKey
 UserIdBegin##UserId##LastUserId
-bannerAdUnitIdBegin##e43d61691b465d04##LastbannerAdUnitId
-adUnitIdBegin##449ffee8b897ba49##LastadUnitId
+bannerAdUnitIdBegin##04caa598acb657a9##LastbannerAdUnitId
+adUnitIdBegin##464afdf6541d05dc##LastadUnitId
 adUnitIdRewordBegin##1ab53990324041c3##LastadUnitIdReword
 TypeAdsBegin##apploving##LastTypeAds
 
