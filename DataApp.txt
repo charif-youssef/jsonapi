@@ -5,7 +5,7 @@ bannerAdUnitIdBegin##{BannerId}##LastbannerAdUnitId
 adUnitIdBegin##{AdUnit}##LastadUnitId
 
 //Susppend App
-IsSusspendBegin##{true}##LastIsSusspend
+IsSusspendBegin##{false}##LastIsSusspend
 UrlIconBegin##{https://lostertime.com/IpTv/DATA/icone/theLastoneIcon.png}##LastUrlIcon
 PackageNameBegin##{com.androworld.lastfiddlerphotoeditor}##LastPackageName
 TitleBegin##{Photo Lab Editor Pro}##LastadTitle
