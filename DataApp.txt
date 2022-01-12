@@ -10,3 +10,8 @@ UrlIconBegin##{https://lostertime.com/IpTv/DATA/icone/theLastoneIcon.png}##LastU
 PackageNameBegin##{com.androworld.lastfiddlerphotoeditor}##LastPackageName
 TitleBegin##{Photo Lab Editor Pro}##LastadTitle
 moregameBegin##{moreGame}##Lastmoregame
+
+
+
+//one Signal
+AppIdOneSignalBegin##{e7bbd92d-4ff5-46e9-bc8b-4fb329ead804}##LastAppIdOneSignal
