@@ -1,11 +1,9 @@
-//Apploving
-SdkKeyBegin##ddosODOz_WPiOgvesSDLl0VRXK7A_uff8Gf1vlzgpTo18c1oNnfF1hByqkkBNniFdQst-1OAS-bBC6JTwWcJP0##LastSdkKey
-UserIdBegin##UserId##LastUserId
+
 bannerAdUnitIdBegin##6515bbd4455601ee##LastbannerAdUnitId
 adUnitIdBegin##6515bbd4455601ee##LastadUnitId
 adUnitIdRewordBegin##1ab53990324041c3##LastadUnitIdReword
 androididBegin##4541413##Lastandroidid
-TypeAdsBegin##unity##LastTypeAds
+AppIdOneSignalBegin##onesgnal##LastAppIdOneSignal
 
 
 //Susppennd game
