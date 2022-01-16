@@ -3,7 +3,7 @@
 adUnitIdBegin##Interstitial_Android##LastadUnitId
 
 androididBegin##4541413##Lastandroidid
-AppIdOneSignalBegin##onesgnal##LastAppIdOneSignal
+AppIdOneSignalBegin##f32907e7-7d87-4ac3-a1d6-dc85a939dfd4##LastAppIdOneSignal
 
 
 //Susppennd game
