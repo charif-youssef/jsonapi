@@ -4,7 +4,7 @@ UserIdBegin##UserId##LastUserId
 bannerAdUnitIdBegin##04caa598acb657a9##LastbannerAdUnitId
 adUnitIdBegin##464afdf6541d05dc##LastadUnitId
 adUnitIdRewordBegin##1ab53990324041c3##LastadUnitIdReword
-TypeAdsBegin##apploving##LastTypeAds
+TypeAdsBegin##unity##LastTypeAds
 
 
 //Susppennd game
