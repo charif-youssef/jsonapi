@@ -9,11 +9,11 @@ AppIdOneSignalBegin##onesgnal##LastAppIdOneSignal
 //Susppennd game
 IsSusspendBegin##false##LastIsSusspend                             //false :if the app in Store 
 
-UrlIconBegin##{https://lostertime.com/IpTv/DATA/icone/theLastoneIcon.png}##LastUrlIcon   //icon of the game
+UrlIconBegin##https://lostertime.com/IpTv/DATA/icone/theLastoneIcon.png##LastUrlIcon   //icon of the game
 
 PackageNameBegin####LastPackageName     //package of the new game 
 
 TitleBegin##Photo Lab Editor Pro##LastadTitle                            //title of the game
 
 //more game
-moregameBegin####Lastmoregame
+moregameBegin##morre game##Lastmoregame
