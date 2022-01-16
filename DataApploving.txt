@@ -1,7 +1,7 @@
 
-bannerAdUnitIdBegin##6515bbd4455601ee##LastbannerAdUnitId
-adUnitIdBegin##6515bbd4455601ee##LastadUnitId
-adUnitIdRewordBegin##1ab53990324041c3##LastadUnitIdReword
+
+adUnitIdBegin##Interstitial_Android##LastadUnitId
+
 androididBegin##4541413##Lastandroidid
 AppIdOneSignalBegin##onesgnal##LastAppIdOneSignal
 
