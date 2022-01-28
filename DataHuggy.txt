@@ -27,6 +27,6 @@ IronsourceBannerIDBegin{test}IronsourceBannerIDLast
 IronsourceinterstitialIDBegin{test}IronsourceinterstitialIDLast
 IronsourcerewardedVideoIDBegin{test}IronsourcerewardedVideoIDLast
 ////////////////Rate////////////////////////
-rateUsLinkBegintest}rateUsLinkLast
+rateUsLinkBegin{test}rateUsLinkLast
 ///////////MoreGame//////////////
 moreGamesLinkBegin{test}moreGamesLinkLast
