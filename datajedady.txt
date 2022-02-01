@@ -1,0 +1,3 @@
+IronsourceAppIDBegin{}IronsourceAppIDLast
+rateUsLinkBegin{}rateUsLinkLast
+moreGamesLinkBegin{}moreGamesLinkLast
