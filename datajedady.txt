@@ -1,7 +1,10 @@
 //appKey IronSource
 AppKeyBegin##{12aacd445}##LastAppKey
-//package name for rate us
-PackageNameBegin##{packagename}##LastPackageName
+//if you want to share game you should past url of the game in story
+ShareBegin##{sharegame}##LastShare
+// Rate of the game
+RateUsBegin##{rateus}##LastRateUs
+//add More game past url of the stor
 moregameBegin##{moregame}##Lastmoregame	
 //OneSignal Id 
 OneSignalIdBegin##{e7bbd92d-4ff5-46e9-bc8b-4fb329ead804}##LastOneSignalId
