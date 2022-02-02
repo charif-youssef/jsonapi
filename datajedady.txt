@@ -1,5 +1,5 @@
 //appKey IronSource
-AppKeyBegin##{12aacd445}##LastAppKey
+AppKeyBegin##{12568373d}##LastAppKey
 //if you want to share game you should past url of the game in story
 ShareBegin##{sharegame}##LastShare
 // Rate of the game
