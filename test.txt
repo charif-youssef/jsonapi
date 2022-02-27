@@ -1,0 +1,8 @@
+//AppKey IronSource
+AppKeyBegin##{1375963b1}##LastAppKey
+//More game past Url
+MoreGameBegin##{https://www.google.com/}##LastMoreGame
+//RateUs past url
+RateUsBeginBegin##{https://www.google.com/}##LastRateUs
+//Sheire past url
+SheireBegin##{https://www.google.com/}##LastSheire
