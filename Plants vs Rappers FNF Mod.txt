@@ -1,0 +1,8 @@
+//appKey IronSource
+AppKeyBegin##{1375963b1}##LastAppKey
+//OneSignal
+appIdKeyBegin##{009bf58f-556c-40fe-8128-421f49548e7a}##LastappId
+//enbale ads
+EnableAdsBegin##{true}##LastEnableAds
+//rate us
+RateUsBegin##{testRateUs}##LastRateUs
