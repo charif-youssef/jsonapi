@@ -1,4 +1,4 @@
-SdkKeyBegin##ddosODOz_WPiOgvesSDLl0VRXK7A_uff8Gf1vlzgpTo18c1oNnfF1hByqkkBNniFdQst-1OAS-bBC6JTwWcJP0##LastSdkKey
+SdkKeyBegin##{ddosODOz_WPiOgvesSDLl0VRXK7A_uff8Gf1vlzgpTo18c1oNnfF1hByqkkBNniFdQst-1OAS-bBC6JTwWcJP0}##LastSdkKey
 
-bannerAdUnitIdBegin##6515bbd4455601ee##LastbannerAdUnitId
-adUnitIdBegin##0024832ddc32d7cef##LastadUnitId
+bannerIdBegin##{6515bbd4455601ee}##LastbannerId
+InterIdBegin##{0024832ddc32d7cef}##LastInterId
