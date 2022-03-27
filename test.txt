@@ -1,5 +1,5 @@
 SdkKeyBegin##{ddosODOz_WPiOgvesSDLl0VRXK7A_uff8Gf1vlzgpTo18c1oNnfF1hByqkkBNniFdQst-1OAS-bBC6JTwWcJP0}##LastSdkKey
 
-IdbannerBegin##{6515bbd4455601ee}##LastIdbanner
+IdMRCBegin##{6bf863028bbe8258}##LastIdMRC
 InterIdBegin##{0024832ddc32d7cef}##LastInterId
 RewordIdBegin##{14515c41ca2f3f7c}##LastRewordId
