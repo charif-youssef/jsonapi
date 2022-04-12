@@ -1,5 +1,5 @@
 SdkKeyBegin##{ddosODOz_WPiOgvesSDLl0VRXK7A_uff8Gf1vlzgpTo18c1oNnfF1hByqkkBNniFdQst-1OAS-bBC6JTwWcJP0}##LastSdkKey
 
-bannerIdBegin##{e43d61691b465d04}##LastbannerId
-InterIdBegin##{5e81c0dcbba5b546}##LastInterId
-RewordIdBegin##{1ab53990324041c3}##LastRewordId
+bannerIdBegin##{a461f628f5ecef3f}##LastbannerId
+InterIdBegin##{fec7e91503bc397f}##LastInterId
+RewordIdBegin##{64b176309a3d9b45}##LastRewordId
