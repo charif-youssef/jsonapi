@@ -1,5 +1,10 @@
-SdkKeyBegin##{ddosODOz_WPiOgvesSDLl0VRXK7A_uff8Gf1vlzgpTo18c1oNnfF1hByqkkBNniFdQst-1OAS-bBC6JTwWcJP0}##LastSdkKey
+AppKeyBegin##{12568373d}##LastAppKey
 
-bannerIdBegin##{a461f628f5ecef3f}##LastbannerId
-InterIdBegin##{fec7e91503bc397f}##LastInterId
-RewordIdBegin##{64b176309a3d9b45}##LastRewordId
+LinkGameBegin##{https://html5.gamedistribution.com/66f24a03669f4ead87178ef4a893a16d/?gdpr-targeting=1&gdpr-tracking=1&gdpr-third-party=1&euConsent=CPYywoTPYywoTAcABBENCOCsAP_AAH_AAChQIutf_X__b3_j-_5_f_t0eY1P9_7__-0zjhfdt-8N3f_X_L8X42M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7_____7z_v-v_v____f_7-3f3__5_3---_e_V_99zbn9_____9nP___9v-_9________4IsgEmGpeQBdmWODJtGkUKIEYVhIdQKACigGFoisIHVwU7K4CfUELABAKkJwIgQYgowYBAAIJAEhEQEgB4IBEARAIAAQAKgEIACNgEFgBYGAQACgGhYgRQBCBIQZEBEcpgQFSJRQT2ViCUHexphCHWeBFAo_oqEBGskYLAyEhYOY4AkBLxZIHmKF8gBGCAAA.f_gAD_gAAAAA&gd_sdk_referrer_url=https%3A%2F%2Fwww.bgames.com%2Fgame%2Fsquid-game-2%2F}##LastLinkGame
+
+UrlIconBegin##{https://lostertime.com/IpTv/SeniApp/Image/Icone.PNG}##LastUrlIcon
+
+TitleBegin##{My Game}##LastadTitle
+
+moregameBegin##{https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2}##Lastmoregame
+       
