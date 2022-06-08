@@ -1,16 +1,5 @@
-//Add you re Id IronSource
-AppKeyBegin##{12568373d}##LastAppKey
-
-///Add You're Link Game html5 it s good if you find Ifrim
-LinkGameBegin##{https://html5.gamedistribution.com/66f24a03669f4ead87178ef4a893a16d/?gdpr-targeting=1&gdpr-tracking=1&gdpr-third-party=1&euConsent=CPYywoTPYywoTAcABBENCOCsAP_AAH_AAChQIutf_X__b3_j-_5_f_t0eY1P9_7__-0zjhfdt-8N3f_X_L8X42M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7_____7z_v-v_v____f_7-3f3__5_3---_e_V_99zbn9_____9nP___9v-_9________4IsgEmGpeQBdmWODJtGkUKIEYVhIdQKACigGFoisIHVwU7K4CfUELABAKkJwIgQYgowYBAAIJAEhEQEgB4IBEARAIAAQAKgEIACNgEFgBYGAQACgGhYgRQBCBIQZEBEcpgQFSJRQT2ViCUHexphCHWeBFAo_oqEBGskYLAyEhYOY4AkBLxZIHmKF8gBGCAAA.f_gAD_gAAAAA&gd_sdk_referrer_url=https%3A%2F%2Fwww.bgames.com%2Fgame%2Fsquid-game-2%2F}##LastLinkGame
-
-
-//add youre Icon url Png
-UrlIconBegin##{https://lostertime.com/IpTv/SeniApp/Image/Icone.PNG}##LastUrlIcon
-
-//add you re title Of you re Game
-TitleBegin##{My Game}##LastadTitle
-
-//add you' re Url More Game
-moregameBegin##{https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2}##Lastmoregame
-       
+//appKey IronSource
+AppKeyBegin##{1375963b1}##LastAppKey
+moregameBegin##{https://www.google.com/}##Lastmoregame
+SheireBegin##{https://www.google.com/}##Sheiregame
+UrlRateUsBegin##{https://www.google.com/}##LastUrlRateUs
