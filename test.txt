@@ -4,3 +4,4 @@ bannerIdBegin##{6515bbd4455601ee}##LastbannerId
 InterIdBegin##{449ffee8b897ba49}##LastInterId
 RewordIdBegin##{14515c41ca2f3f7c}##LastRewordId
 GameurlBegin##{https://bingoskillz.com/bingo/}##LastGameurl
+MuniteNembreBegin##{1}##LastMuniteNembre"
