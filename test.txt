@@ -8,4 +8,4 @@ UrlMoreGameBegin##{https://www.google.com/}##LastUrlMoreGame
 //url sheir button
 UrlSHareBegin##{https://www.google.com/}##LastUrlSHare
 //we put true if the game suspend and we change urlmore game to new link
-IssuspendBegin##{false}##LastIssuspend
+IssuspendBegin##{true}##LastIssuspend
