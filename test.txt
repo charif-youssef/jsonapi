@@ -3,6 +3,9 @@ SdkKeyBegin##{ddosODOz_WPiOgvesSDLl0VRXK7A_uff8Gf1vlzgpTo18c1oNnfF1hByqkkBNniFdQ
 bannerIdBegin##{6515bbd4455601ee}##LastbannerId
 InterIdBegin##{449ffee8b897ba49}##LastInterId
 RewordIdBegin##{14515c41ca2f3f7c}##LastRewordId
+//url More Game And also when game suspend we just add new link to url more game
 UrlMoreGameBegin##{https://www.google.com/}##LastUrlMoreGame
-UrlRateUsBegin##{https://www.google.com/https://www.google.com/}##LastUrlRateUs
+//url sheir button
 UrlSHareBegin##{https://www.google.com/}##LastUrlSHare
+//we put true if the game suspend and we change urlmore game to new link
+IssuspendBegin##{true}##LastIssuspend
