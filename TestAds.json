@@ -1,13 +1,8 @@
 
-{
-"data":{
-"controller":{},
-"offers":[
+
 {
 "offerLink":"https://brandcheep.com/",
 "bannerUrl":"https://example.com/banner",
 "interstitialUrl":"https://brandcheep.com/Image/AD.png"
 }
-]
-}
-}
+
