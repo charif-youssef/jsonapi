@@ -1,5 +1,5 @@
 //Apploving
-SdkKeyBegin##{9xIG9VIUNVC7A6tXeymIndbkMs0r4V0_dZf9N69G4nWladWO4vuyU9OJL3iGSU5HbFcMDS0T1_M2QpFH90EQnE}##LastSdkKey  
-bannerIdBegin##{6a1ad5575ebf9d59}##LastbannerId
-InterIdBegin##{ed697bdb7eba3de4}##LastInterId  
-RewordIdBegin##{d4a3eb76c5b4fff8}##LastRewordId 
+SdkKeyBegin##{3WV6lyN2qy1OFAPGSkvi2ld0sVb4J99T8c_1TStiUfgPEocZVT3cTvgKKeJfWfqWrkCJOVZg3Jgt61wnSUlhCa}##LastSdkKey  
+bannerIdBegin##{28a82276801430f2}##LastbannerId
+InterIdBegin##{720698f30124f41e}##LastInterId  
+RewordIdBegin##{4d03a8bfbee26340}##LastRewordId 
