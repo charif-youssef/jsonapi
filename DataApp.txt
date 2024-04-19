@@ -4,4 +4,4 @@ InterIdBegin##{8ed9bc79eb4c16f3}##LastInterId
 RewordIdBegin##{f230d143a512002f}##LastRewordId
 IsfreedBegin##{false}##LastIsfreed
 Url_RateBegin##{https://www.google.com/}##LastUrl_Rate
-IsRateBegin##{true}##LastIsRate
+IsRateBegin##{false}##LastIsRate
