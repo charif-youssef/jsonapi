@@ -1,5 +1,8 @@
-//Apploving
-SdkKeyBegin##{3WV6lyN2qy1OFAPGSkvi2ld0sVb4J99T8c_1TStiUfgPEocZVT3cTvgKKeJfWfqWrkCJOVZg3Jgt61wnSUlhCa}##LastSdkKey  
-bannerIdBegin##{28a82276801430f2}##LastbannerId
-InterIdBegin##{720698f30124f41e}##LastInterId  
-RewordIdBegin##{4d03a8bfbee26340}##LastRewordId 
+SdkKeyBegin##{XwI5TUu1SJ4ILviRTsWlk4XWAgCI2hkac1f4WX6zsBFB4zdTq8IXDq3NVFgXyP6TQmdxIkv8v8K-6yXw4qSHeW}##LastSdkKey
+bannerIdBegin##{9a8da160fd0366ea}##LastbannerId
+InterIdBegin##{8ed9bc79eb4c16f3}##LastInterId
+RewordIdBegin##{f230d143a512002f}##LastRewordId
+IsfreedBegin##{false}##LastIsfreed
+Url_RateBegin##{https://www.google.com/}##LastUrl_Rate
+
+IsRateBegin##{true}##LastIsRate
