@@ -6,5 +6,7 @@
     "Active__Native": "true",
     "Url__Image_Inter": "https://i.pinimg.com/736x/d9/b6/3c/d9b63cf685551fac11324af8992b85f9.jpg",
     "Url__Game_Inter": "https://www.pinterest.com/",
-    "Active___Inter": "true"
+    "Active___Inter": "true",
+    "Active_SuspendGame":"true",
+    "Url__Game_Suspend":"https://www.pinterest.com/"
 }
