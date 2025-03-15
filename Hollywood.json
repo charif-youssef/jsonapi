@@ -1,10 +1,10 @@
 {
-    "Inter__AD": "some_value",
-    "Reword__Ad": "some_value",
-    "Url__Image_Native": "some_value",
-    "Url__Game_Native": "some_value",
-    "Active__Native": "some_value",
-    "Url__Image_Inter": "some_value",
-    "Url__Game_Inter": "some_value",
-    "Active___Inter": "some_value"
+    "Inter__AD": "INter__Id",
+    "Reword__Ad": "Reword__Id",
+    "Url__Image_Native": "https://i.pinimg.com/736x/d9/b6/3c/d9b63cf685551fac11324af8992b85f9.jpg",
+    "Url__Game_Native": "https://www.pinterest.com/",
+    "Active__Native": "true",
+    "Url__Image_Inter": "https://i.pinimg.com/736x/d9/b6/3c/d9b63cf685551fac11324af8992b85f9.jpg",
+    "Url__Game_Inter": "https://www.pinterest.com/",
+    "Active___Inter": "true"
 }
