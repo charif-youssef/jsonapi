@@ -1,14 +1,10 @@
 {
-  "Inter__AD": "inter",
-  "Reword__Ad": "reword",
-  "Native": {
-    "Url__Image_Native": "image",
-    "Url__Game__Native": "game url",
-    "Active__Native": false
-  },
-  "Inter": {
-    "Url__Image_Inter": "inter image",
-    "Url__Game_Inter": "game url",
-    "Active___Inter": false
-  }
+    "Inter__AD": "some_value",
+    "Reword__Ad": "some_value",
+    "Url__Image_Native": "some_value",
+    "Url__Game_Native": "some_value",
+    "Active__Native": "some_value",
+    "Url__Image_Inter": "some_value",
+    "Url__Game_Inter": "some_value",
+    "Active___Inter": "some_value"
 }
