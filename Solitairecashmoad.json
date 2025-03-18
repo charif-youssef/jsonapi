@@ -3,10 +3,10 @@
     "Reword__Ad": "cf495d0ba57713fe",
     "Url__Image_Native": "https://i.pinimg.com/736x/d9/b6/3c/d9b63cf685551fac11324af8992b85f9.jpg",
     "Url__Game_Native": "https://www.pinterest.com/",
-    "Active__Native": "true",
+    "Active__Native": "false",
     "Url__Image_Inter": "https://i.pinimg.com/736x/d9/b6/3c/d9b63cf685551fac11324af8992b85f9.jpg",
     "Url__Game_Inter": "https://www.pinterest.com/",
-    "Active___Inter": "true",
-    "Active_SuspendGame":"true",
+    "Active___Inter": "false",
+    "Active_SuspendGame":"false",
     "Url__Game_Suspend":"https://www.pinterest.com/"
 }
