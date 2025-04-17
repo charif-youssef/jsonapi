@@ -21,9 +21,9 @@ UrlInterAdsImageBegin##{https://bingoskillz.com/images/InterTestCasino.jpeg}##La
 // to show Native set true
 IsNativeOpenBegin##{false}##LastIsNativeOpen
 //set url buttton
-UrlNativeAdsBegin##{work}##LastUrlNativeAds
+UrlNativeAdsBegin##{https://play.google.com/store/apps/details?id=com.BlackoutBingoBingo.BlackoutWinCashBingo}##LastUrlNativeAds
 //set url image
-UrlNativeAdsImageBegin##{https://bingoskillz.com/images/InterTestCasino.jpeg}##LastUrlNativeAdsImage
+UrlNativeAdsImageBegin##{https://brandcheep.com/Image/yb/ADBlackout.png}##LastUrlNativeAdsImage
 
 //panel feedback
 IsActivePanelFeedBackBegin##{false}##LastIsActivePanelFeedBack
