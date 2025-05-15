@@ -1,0 +1,26 @@
+//Apploving
+SdkKeyBegin##{ekPyXEHzH9oa24cDb2C2TTBTATnumtTIGVTh00rGqkC7BAVDfP2OWMhxPpukNkcsNbi2ulSGo2_Xa_wL54qQRs}##LastSdkKey
+bannerIdBegin##{0a28e456}##LastbannerId
+InterIdBegin##{02694d6391d2b8e20000}##LastInterId
+RewordIdBegin##{8ba71d7c864b4bba0000}##LastRewordId
+//url Susspend Game And also when game suspend we just add new link to url more game
+UrlSusspendAppBegin##{ cc}##LastUrlSusspendApp
+//we put true if the game suspend and we change urlmore game to new link
+IssuspendBegin##{false}##LastIssuspend
+// if you want to open  image inter ads set true
+IsInterOpenBegin##{false}##LastIsInterOpen
+//set url for you re link 
+
+UrlInterAdsBegin##{https://bingoskillz.com/images/InterTestCasino.jpeg}##LastUrlInterAds
+
+//set you re url  image 
+UrlInterAdsImageBegin##{https://bingoskillz.com/images/InterTestCasino.jpeg}##LastUrlInterAdsImage
+//////////////////////////////////////
+////////////////////////////////////
+//////////////////NativeAds////////
+// to show Native set true
+IsNativeOpenBegin##{false}##LastIsNativeOpen
+//set url buttton
+UrlNativeAdsBegin##{work}##LastUrlNativeAds
+//set url image
+UrlNativeAdsImageBegin##{https://bingoskillz.com/images/InterTestCasino.jpeg}##LastUrlNativeAdsImage
