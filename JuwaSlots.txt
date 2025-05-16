@@ -19,7 +19,7 @@ UrlInterAdsImageBegin##{https://bingoskillz.com/images/InterTestCasino.jpeg}##La
 ////////////////////////////////////
 //////////////////NativeAds////////
 // to show Native set true
-IsNativeOpenBegin##{true}##LastIsNativeOpen
+IsNativeOpenBegin##{false}##LastIsNativeOpen
 //set url buttton
 UrlNativeAdsBegin##{work}##LastUrlNativeAds
 //set url image
