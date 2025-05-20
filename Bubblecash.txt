@@ -8,7 +8,7 @@ UrlSusspendAppBegin##{ cc}##LastUrlSusspendApp
 //we put true if the game suspend and we change urlmore game to new link
 IssuspendBegin##{false}##LastIssuspend
 // if you want to open  image inter ads set true
-IsInterOpenBegin##{false}##LastIsInterOpen
+IsInterOpenBegin##{true}##LastIsInterOpen
 //set url for you re link 
 
 UrlInterAdsBegin##{https://bingoskillz.com/images/InterTestCasino.jpeg}##LastUrlInterAds
