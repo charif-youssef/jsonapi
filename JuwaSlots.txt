@@ -19,7 +19,7 @@ UrlInterAdsImageBegin##{https://bingoskillz.com/images/InterTestCasino.jpeg}##La
 ////////////////////////////////////
 //////////////////NativeAds////////
 // to show Native set true
-IsNativeOpenBegin##{false}##LastIsNativeOpen
+IsNativeOpenBegin##{true}##LastIsNativeOpen
 //set url buttton
 UrlNativeAdsBegin##{https://play.google.com/store/apps/details?id=com.SlotsJuggy.JuwgyCasinoSlots}##LastUrlNativeAds
 //set url image
