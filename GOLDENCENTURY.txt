@@ -1,8 +1,8 @@
 //Apploving
 SdkKeyBegin##{FH5h9oJiKC2zgTm6u3GVOwsZCCHWnHUesW0u5N2Tut3lvwCB6K_x5ynNyDvuJtRXORefkqS81mMAaleMdAE5wQ}##LastSdkKey
 bannerIdBegin##{0a28e456}##LastbannerId
-InterIdBegin##{6a0b9da274a55935}##LastInterId
-RewordIdBegin##{3322821cd1b83604}##LastRewordId
+InterIdBegin##{eeb067d2ce8737d6}##LastInterId
+RewordIdBegin##{6ab41658fd8bb206}##LastRewordId
 //url Susspend Game And also when game suspend we just add new link to url more game
 UrlSusspendAppBegin##{ cc}##LastUrlSusspendApp
 //we put true if the game suspend and we change urlmore game to new link
