@@ -20,5 +20,5 @@ UrlInterAdsImageBegin##{https://bingoskillz.com/images/InterTestCasino.jpeg}##La
 //////////////////NativeAds////////
 // to show Native set true
 UrlBannerAdsBegin##{https://play.google.com/store/apps/details?id=com.GameShooterGame.BubbleShooterGame}##LastUrlBannerAds    
-IsBannerOpenBegin##{false}##LastIsBannerOpen
+IsBannerOpenBegin##{true}##LastIsBannerOpen
 UrlBannerAdsImageBegin##{https://brandcheep.com/ADFILE/YB/imgAD/bubbleAd.png}##LastUrlBannerAdsImage
