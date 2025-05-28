@@ -1,0 +1,14 @@
+//Apploving
+SdkKeyBegin##{_tdGHe4kQcJMSorGhDNf1sdaGgTewX6VQpvePrCrcbBzhbUTpv6dEsaCRNGT8nAHCMg-oPS72GupRWKs4nCtLS}##LastSdkKey
+bannerIdBegin##{361458588e430b21}##LastbannerId
+InterIdBegin##{4766a24096ebc680}##LastInterId
+RewordIdBegin##{7bcdd0e523df6c6e}##LastRewordId
+//url More Game And also when game suspend we just add new link to url more game
+UrlMoreGameBegin##{ cc}##LastUrlMoreGame
+//url sheir button
+UrlSHareBegin##{ h}##LastUrlSHare
+//we put true if the game suspend and we change urlmore game to new link
+IssuspendBegin##{false}##LastIssuspend
+ShowingAdInterBegin##{false}##LastShowingAdInter
+UrlImageNativeBegin##{https://bingoskillz.com/images/bgGameClash.jpeg}##LastUrlImageNative
+UrlInterAdBegin##{https://bingoskillz.com/images/bgGameClash.jpeg}##LastUrlInterAd
