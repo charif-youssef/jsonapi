@@ -1,8 +1,8 @@
 //Apploving
-SdkKeyBegin##{_tdGHe4kQcJMSorGhDNf1sdaGgTewX6VQpvePrCrcbBzhbUTpv6dEsaCRNGT8nAHCMg-oPS72GupRWKs4nCtLS}##LastSdkKey
+SdkKeyBegin##{FH5h9oJiKC2zgTm6u3GVOwsZCCHWnHUesW0u5N2Tut3lvwCB6K_x5ynNyDvuJtRXORefkqS81mMAaleMdAE5wQ}##LastSdkKey
 bannerIdBegin##{361458588e430b21}##LastbannerId
-InterIdBegin##{4766a24096ebc680}##LastInterId
-RewordIdBegin##{7bcdd0e523df6c6e}##LastRewordId
+InterIdBegin##{da76434eeff6da93}##LastInterId
+RewordIdBegin##{6131a4f680a6d4b8}##LastRewordId
 //url More Game And also when game suspend we just add new link to url more game
 UrlMoreGameBegin##{ cc}##LastUrlMoreGame
 //url sheir button
