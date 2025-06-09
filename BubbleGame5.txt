@@ -19,11 +19,11 @@ UrlInterAdsImageBegin##{https://brandcheep.com/Image/yb/BingoBlackoutAD.png}##La
 ////////////////////////////////////
 //////////////////NativeAds////////
 // to show Native set true
-IsNativeOpenBegin##{true}##LastIsNativeOpen
+IsBannerOpenBegin##{false}##LastIsBannerOpen
 //set url buttton
-UrlNativeAdsBegin##{https://play.google.com/store/apps/details?id=com.BlackoutBingoBingo.BlackoutWinCashBingo}##LastUrlNativeAds
+UrlBannerAdsBegin##{https://play.google.com/store/apps/details?id=com.BlackoutBingoBingo.BlackoutWinCashBingo}##LastUrlBannerAds
 //set url image
-UrlNativeAdsImageBegin##{https://brandcheep.com/Image/yb/ADBlackout.png}##LastUrlNativeAdsImage
+UrlBannerAdsImageBegin##{https://brandcheep.com/Image/yb/ADBlackout.png}##LastUrlBannerAdsImage
 
 //panel feedback
 IsActivePanelFeedBackBegin##{false}##LastIsActivePanelFeedBack
