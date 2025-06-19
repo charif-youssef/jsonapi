@@ -8,17 +8,17 @@ UrlSusspendAppBegin##{ cc}##LastUrlSusspendApp
 //we put true if the game suspend and we change urlmore game to new link
 IssuspendBegin##{false}##LastIssuspend
 // if you want to open  image inter ads set true
-IsInterOpenBegin##{false}##LastIsInterOpen
+IsInterOpenBegin##{true}##LastIsInterOpen
 //set url for you re link 
 
-UrlInterAdsBegin##{https://bingoskillz.com/images/InterTestCasino.jpeg}##LastUrlInterAds
+UrlInterAdsBegin##{https://play.google.com/store/apps/details?id=com.BubbleBebGame.BubbleGameShoot}##LastUrlInterAds
 
 //set you re url  image 
-UrlInterAdsImageBegin##{https://bingoskillz.com/images/InterTestCasino.jpeg}##LastUrlInterAdsImage
+UrlInterAdsImageBegin##{https://brandcheep.com/Image/ADIos/Bubble%20AD.png}##LastUrlInterAdsImage
 //////////////////////////////////////
 ////////////////////////////////////
 //////////////////NativeAds////////
 // to show Native set true
-UrlBannerAdsBegin##{https://play.google.com/store/apps/details?id=com.GameShooterGame.BubbleShooterGame}##LastUrlBannerAds    
+UrlBannerAdsBegin##{https://play.google.com/store/apps/details?id=com.BubbleBebGame.BubbleGameShoot}##LastUrlBannerAds    
 IsBannerOpenBegin##{true}##LastIsBannerOpen
 UrlBannerAdsImageBegin##{https://brandcheep.com/ADFILE/YB/imgAD/bubbleAd.png}##LastUrlBannerAdsImage
