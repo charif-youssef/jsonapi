@@ -1,8 +1,8 @@
 //Apploving dev charki
-SdkKeyBegin##{FH5h9oJiKC2zgTm6u3GVOwsZCCHWnHUesW0u5N2Tut3lvwCB6K_x5ynNyDvuJtRXORefkqS81mMAaleMdAE5wQ}##LastSdkKey
+SdkKeyBegin##{ekPyXEHzH9oa24cDb2C2TTBTATnumtTIGVTh00rGqkC7BAVDfP2OWMhxPpukNkcsNbi2ulSGo2_Xa_wL54qQRs}##LastSdkKey
 bannerIdBegin##{0a28e456}##LastbannerId
-InterIdBegin##{6480eca5b0d6945d}##LastInterId
-RewordIdBegin##{2a95c906dd0f4ff2}##LastRewordId
+InterIdBegin##{216320214939792d}##LastInterId
+RewordIdBegin##{2a376a50bc849927}##LastRewordId
 //url Susspend Game And also when game suspend we just add new link to url more game
 UrlSusspendAppBegin##{ cc}##LastUrlSusspendApp
 //we put true if the game suspend and we change urlmore game to new link
