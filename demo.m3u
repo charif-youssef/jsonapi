@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="DWEN" tvg-name="DW English" tvg-logo="" group-title="Demo",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015530/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="Aljazeera" tvg-name="Al Jazeera English" tvg-logo="" group-title="Demo",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/v1/WEB/index.m3u8
