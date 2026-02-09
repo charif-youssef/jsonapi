@@ -1,8 +1,8 @@
 //Apploving dev charki
 SdkKeyBegin##{ekPyXEHzH9oa24cDb2C2TTBTATnumtTIGVTh00rGqkC7BAVDfP2OWMhxPpukNkcsNbi2ulSGo2_Xa_wL54qQRs}##LastSdkKey
 bannerIdBegin##{0a28e456}##LastbannerId
-InterIdBegin##{6a0b9da274a55935}##LastInterId
-RewordIdBegin##{3322821cd1b83604}##LastRewordId
+InterIdBegin##{6a0b9da274a55935eee}##LastInterId
+RewordIdBegin##{3322821cd1b83604eeee}##LastRewordId
 //url Susspend Game And also when game suspend we just add new link to url more game
 UrlSusspendAppBegin##{ cc}##LastUrlSusspendApp
 //we put true if the game suspend and we change urlmore game to new link
@@ -19,7 +19,7 @@ UrlInterAdsImageBegin##{https://bingoskillz.com/images/InterTestCasino.jpeg}##La
 ////////////////////////////////////
 //////////////////NativeAds////////
 // to show Native set true
-IsNativeOpenBegin##{true}##LastIsNativeOpen
+IsNativeOpenBegin##{false}##LastIsNativeOpen
 //set url buttton
 UrlNativeAdsBegin##{https://play.google.com/store/apps/details?id=com.SlotsJuggy.JuwgyCasinoSlots}##LastUrlNativeAds
 //set url image
